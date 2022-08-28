@@ -1,0 +1,74 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+img {
+  display: block;
+}
+
+#link1 {
+  color: #f5f6f7;
+  text-decoration: none;
+}
+
+body {
+  background-color: #1b1b32;
+  color: #f5f6f7;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+#image {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: Open Sans, sans-serif;
+}
+ #about, #about1 {
+   font-size: 20px;
+ }
+ #title {
+   background-color: #0a0a23;
+ }
+ hr {
+   border: solid 1px #dddddd;
+   width: 500px;
+ }
+
+ p {
+  font-family: Roboto, sans-serif;
+}
+
+#img-caption {
+  font-size: 15px;
+  font-family: Open Sans, sans serif;
+}
+
+#moreinfo {
+  text-align: center;
+  font-size: 15px;
+}
+#tribute-link {
+  color: #f5f6f7;
+}
+
+#tribute-link:hover {
+  text-decoration: none;
+}
+
+#footer {
+  background-color: #2a2a40;
+  padding: 10px;
+}
+
+#sololearn-link {
+  color: #f5f6f7;
+}
+
+#sololearn-link:hover {
+  text-decoration: none;
+}
